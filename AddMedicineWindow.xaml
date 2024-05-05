@@ -32,7 +32,7 @@
         <Label Content="Форма выпуска" Grid.Column="0" Grid.Row="4"/>
         <TextBox x:Name="ReleaseFormTextBox" Grid.Column="1" Grid.Row="4"/>
 
-        <Button Content="OK" Click="OkButton_Click" Grid.Column="0" Grid.Row="5"/>
-        <Button Content="Cancel" Click="CancelButton_Click" Grid.Column="1" Grid.Row="5"/>
+        <Button Content="Ок" Click="OkButton_Click" Grid.Column="0" Grid.Row="5"/>
+        <Button Content="Отмена" Click="CancelButton_Click" Grid.Column="1" Grid.Row="5"/>
     </Grid>
 </Window>
